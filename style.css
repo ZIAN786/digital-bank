@@ -26,3 +26,16 @@ box-shadow: 5px 5px 10px gray;
 .balance{
     background-color:olivedrab;
 }
+h1{
+    background-color: moccasin;
+    color: navy;
+}
+h4{
+    color:maroon;
+}
+p{
+    text-align: center;
+    margin-top: 450px;
+    background-color: moccasin;
+    color:steelblue;
+}
